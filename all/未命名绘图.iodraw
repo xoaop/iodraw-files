@@ -43,7 +43,7 @@
         <mxCell id="auU2xHj4T29l_6LgdIOo-17" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;判断所有指令是否执行完毕&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="230" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="auU2xHj4T29l_6LgdIOo-18" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;判断所有指令是否执行完毕&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="auU2xHj4T29l_6LgdIOo-18" value="&lt;font size=&quot;1&quot;&gt;输出缺页率并退出&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="280" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="auU2xHj4T29l_6LgdIOo-20" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
