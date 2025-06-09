@@ -34,13 +34,10 @@
         <mxCell id="auU2xHj4T29l_6LgdIOo-13" value="替换页面后获取地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="180" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="auU2xHj4T29l_6LgdIOo-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="auU2xHj4T29l_6LgdIOo-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="258.75" as="sourcePoint" />
-            <mxPoint x="340" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="260" y="268.75" />
-            </Array>
+            <mxPoint x="210" y="210" as="sourcePoint" />
+            <mxPoint x="260" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
